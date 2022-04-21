@@ -2,7 +2,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.recipe_app",
+      "package_name": "si.mercator.miapp",
       "sha256_cert_fingerprints":
       [
           "AF:35:3C:43:8E:77:C3:69:50:BD:8C:33:86:DA:B4:74:09:81:12:2B:DD:6C:B5:DC:4B:52:7B:7B:44:21:E3:EA",
